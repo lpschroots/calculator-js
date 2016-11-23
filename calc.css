@@ -1,0 +1,43 @@
+body{
+	background-color: #32CD32;
+	text-align: center;
+	font-size: 10px;
+}
+
+span{
+	color: white;
+}
+
+h1{
+	font-size: 50px;
+	text-align: center;
+}
+
+main{
+	text-align: center;
+}
+
+.number{
+	position: relative;
+	left: 2px;
+	top: 2px;
+	width: 60px;
+	height: 30px;
+	margin: 2px;
+}
+
+.button{
+	font-size: 20px;
+	height: 30px;
+	width: 40px;
+	left: 2px;
+	top: 2px;
+
+}
+
+.finish{
+	position: relative;
+	height: 30px;
+	width: 80px;
+	margin: 2px;
+}
